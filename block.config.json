@@ -1,0 +1,8 @@
+{
+  "name": "test_sp_pb1",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/devthalal/test_sp_pb1",
+    "ssh": "git@github.com:devthalal/test_sp_pb1.git"
+  }
+}
